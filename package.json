@@ -1,0 +1,47 @@
+{
+  "name": "munch-jquery",
+  "description": "jQuery parser for muncher.js",
+  "version": "0.0.1",
+  "author": {
+    "name": "John Rocela",
+    "url": "http://iamjamoy.com/"
+  },
+  "homepage": "http://jmrocela.github.io/munchjs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jmrocela/munch-jquery.git"
+  },
+  "bugs": {
+    "url": "http://github.com/jmrocela/munch-jquery/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/jmrocela/munch-jquery/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "jquery",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": [
+    "munch",
+    "html",
+    "js",
+    "css",
+    "optimize",
+    "minify",
+    "obfuscate"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "contributors": [
+    {
+      "name": "John Rocela",
+      "url": "http://iamjamoy.com/"
+    }
+  ],
+  "readmeFilename": "README.md",
+  "_id": "munch-jquery@0.0.1",
+  "_from": "munch-jquery"
+}
