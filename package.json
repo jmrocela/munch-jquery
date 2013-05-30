@@ -1,7 +1,7 @@
 {
   "name": "munch-jquery",
   "description": "jQuery parser for muncher.js",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": {
     "name": "John Rocela",
     "url": "http://iamjamoy.com/"
@@ -26,12 +26,10 @@
   },
   "keywords": [
     "munch",
-    "html",
     "js",
-    "css",
     "optimize",
-    "minify",
-    "obfuscate"
+    "selector",
+    "jquery"
   ],
   "dependencies": {},
   "devDependencies": {},
@@ -42,6 +40,6 @@
     }
   ],
   "readmeFilename": "README.md",
-  "_id": "munch-jquery@0.0.1",
+  "_id": "munch-jquery@0.1.0",
   "_from": "munch-jquery"
 }
